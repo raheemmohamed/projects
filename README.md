@@ -1,2 +1,2 @@
-# projects
-projects
+# Codeigniter LMS project
+Codeigniter LMS project
